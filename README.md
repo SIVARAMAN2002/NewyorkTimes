@@ -1,3 +1,3 @@
 # NewyorkTimes
 ANDROID CLUB ASSIGNMENT
-![](APP API SCREENSHOT.jpeg)
+![](image.jpeg)
