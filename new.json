@@ -1,0 +1,1214 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+    "num_results": 20,
+    "results": [
+        {
+            "uri": "nyt://article/4f63400b-8e5e-5922-8fc6-7dad000b9969",
+            "url": "https://www.nytimes.com/2022/04/19/opinion/bmw-porsche-nazi-germany-quandt-flick.html",
+            "id": 100000008303803,
+            "asset_id": 100000008303803,
+            "source": "New York Times",
+            "published_date": "2022-04-19",
+            "updated": "2022-04-19 14:22:25",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Holocaust and the Nazi Era;Automobiles;Philanthropy;Nuremberg War Crimes Tribunal (1945-49);War Crimes, Genocide and Crimes Against Humanity;Forced Labor;Quandt Family;Quandt, Guenther;Quandt, Herbert (1910-82);Quandt, Stefan (1966- );Klatten, Susanne;Flick Family;Flick, Friedrich;Porsche, Ferdinand;Porsche-Piech Family;Porsche, Ferry (1909-88);Mercedes-Benz;Piech Automotive;Porsche AG;Volkswagen AG;Daimler-Benz AG;Germany",
+            "column": null,
+            "byline": "By David de Jong",
+            "type": "Article",
+            "title": "They Are the Heirs of Nazi Fortunes, and They Aren’t Apologizing",
+            "abstract": "In a country that is celebrated for its culture of reckoning and remembrance, the richest families are often an exception.",
+            "des_facet": [
+                "Holocaust and the Nazi Era",
+                "Automobiles",
+                "Philanthropy",
+                "Nuremberg War Crimes Tribunal (1945-49)",
+                "War Crimes, Genocide and Crimes Against Humanity",
+                "Forced Labor"
+            ],
+            "org_facet": [
+                "Mercedes-Benz",
+                "Piech Automotive",
+                "Porsche AG",
+                "Volkswagen AG",
+                "Daimler-Benz AG"
+            ],
+            "per_facet": [
+                "Quandt Family",
+                "Quandt, Guenther",
+                "Quandt, Herbert (1910-82)",
+                "Quandt, Stefan (1966- )",
+                "Klatten, Susanne",
+                "Flick Family",
+                "Flick, Friedrich",
+                "Porsche, Ferdinand",
+                "Porsche-Piech Family",
+                "Porsche, Ferry (1909-88)"
+            ],
+            "geo_facet": [
+                "Germany"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Matt Chase",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/19/opinion/19dejong-image-V2/19dejong-image-V2-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/19/opinion/19dejong-image-V2/19dejong-image-V2-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/19/opinion/19dejong-image-V2/19dejong-image-V2-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/1eacf02a-d4a0-511a-91a0-eef6edef7933",
+            "url": "https://www.nytimes.com/2022/04/18/opinion/china-russia-putin.html",
+            "id": 100000008308351,
+            "asset_id": 100000008308351,
+            "source": "New York Times",
+            "published_date": "2022-04-18",
+            "updated": "2022-04-19 21:03:13",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Politics and Government;Russian Invasion of Ukraine (2022);Coronavirus (2019-nCoV);Putin, Vladimir V;Xi Jinping;Russia;Ukraine;China",
+            "column": null,
+            "byline": "By Thomas L. Friedman",
+            "type": "Article",
+            "title": "China and Russia Are Giving Authoritarianism a Bad Name",
+            "abstract": "Moscow overreached on Ukraine and Beijing on Covid, and now they’re paying for their hubris.",
+            "des_facet": [
+                "Politics and Government",
+                "Russian Invasion of Ukraine (2022)",
+                "Coronavirus (2019-nCoV)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Putin, Vladimir V",
+                "Xi Jinping"
+            ],
+            "geo_facet": [
+                "Russia",
+                "Ukraine",
+                "China"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Pool photo by Sergei Ilnitsky",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/20/opinion/20friedman-inyt/18friedman1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/20/opinion/20friedman-inyt/18friedman1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/20/opinion/20friedman-inyt/18friedman1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/24a191e8-146d-5e31-b758-c21ce61ef11a",
+            "url": "https://www.nytimes.com/article/covid-masks-protection-stats.html",
+            "id": 100000007983025,
+            "asset_id": 100000007983025,
+            "source": "New York Times",
+            "published_date": "2021-09-21",
+            "updated": "2022-04-20 00:11:46",
+            "section": "Well",
+            "subsection": "Live",
+            "nytdsection": "well",
+            "adx_keywords": "Masks;Protective Clothing and Gear;Workplace Hazards and Violations;Coronavirus Delta Variant;Disease Rates;Vaccination and Immunization;Coronavirus Risks and Safety Concerns;Content Type: Service",
+            "column": null,
+            "byline": "By Tara Parker-Pope and Knvul Sheikh",
+            "type": "Article",
+            "title": "Does My Mask Protect Me if Nobody Else Is Wearing One?",
+            "abstract": "Masks work best when everyone in the room has one on, but you’ll still benefit from masking up even when those around you aren’t.",
+            "des_facet": [
+                "Masks",
+                "Protective Clothing and Gear",
+                "Workplace Hazards and Violations",
+                "Coronavirus Delta Variant",
+                "Disease Rates",
+                "Vaccination and Immunization",
+                "Coronavirus Risks and Safety Concerns",
+                "Content Type: Service"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Aileen Son for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/09/28/well/21Well-Ask-Well-Masks2/21Well-Ask-Well-Masks2-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/09/28/well/21Well-Ask-Well-Masks2/21Well-Ask-Well-Masks2-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/09/28/well/21Well-Ask-Well-Masks2/21Well-Ask-Well-Masks2-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/cbecdedb-4e24-5727-99e3-b1547d1a13a5",
+            "url": "https://www.nytimes.com/2022/04/18/well/move/foot-health-pandemic.html",
+            "id": 100000008278351,
+            "asset_id": 100000008278351,
+            "source": "New York Times",
+            "published_date": "2022-04-18",
+            "updated": "2022-04-19 16:52:00",
+            "section": "Well",
+            "subsection": "Move",
+            "nytdsection": "well",
+            "adx_keywords": "Content Type: Service;Feet;Sports Injuries;Coronavirus (2019-nCoV);Shoes and Boots;Massage",
+            "column": null,
+            "byline": "By Mara Altman",
+            "type": "Article",
+            "title": "The Pandemic Has Been Hard on Our Feet",
+            "abstract": "Here’s what’s plaguing them and how to avoid it.",
+            "des_facet": [
+                "Content Type: Service",
+                "Feet",
+                "Sports Injuries",
+                "Coronavirus (2019-nCoV)",
+                "Shoes and Boots",
+                "Massage"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Amanda Jasnowski Pascual for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/13/well/WELL-FOOT-HEALTH2/WELL-FOOT-HEALTH2-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/13/well/WELL-FOOT-HEALTH2/merlin_205397268_1bc7b0a2-71ef-48ef-b2c3-f42631b39354-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/13/well/WELL-FOOT-HEALTH2/merlin_205397268_1bc7b0a2-71ef-48ef-b2c3-f42631b39354-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/8238017a-cfe6-5ece-99ad-e8c9fd110349",
+            "url": "https://www.nytimes.com/2012/10/28/magazine/the-island-where-people-forget-to-die.html",
+            "id": 100000001859529,
+            "asset_id": 100000001859529,
+            "source": "New York Times",
+            "published_date": "2012-10-24",
+            "updated": "2019-04-15 23:28:55",
+            "section": "Magazine",
+            "subsection": "",
+            "nytdsection": "magazine",
+            "adx_keywords": "Elderly;Longevity;Ikaria (Greece)",
+            "column": null,
+            "byline": "By Dan Buettner",
+            "type": "Article",
+            "title": "The Island Where People Forget to Die",
+            "abstract": "Unraveling the mystery of why the inhabitants of Ikaria, an island of 99 square miles that is home to almost 10,000 Greek nationals, live so long and so well.",
+            "des_facet": [
+                "Elderly",
+                "Longevity"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Ikaria (Greece)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Stamatis Moraitis tending his vineyard and olive grove on Ikaria.",
+                    "copyright": "Andrea Frazzetta/LUZphoto for The New York Times",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2012/10/28/magazine/28Ikaria3/28Ikaria3-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/89018169-76c0-5321-b888-ef1a69b1753e",
+            "url": "https://www.nytimes.com/2022/03/23/well/how-to-do-squats.html",
+            "id": 100000008232482,
+            "asset_id": 100000008232482,
+            "source": "New York Times",
+            "published_date": "2022-03-23",
+            "updated": "2022-04-10 09:06:55",
+            "section": "Well",
+            "subsection": "",
+            "nytdsection": "well",
+            "adx_keywords": "Exercise;Muscles;Knees;Content Type: Service",
+            "column": null,
+            "byline": "By Gretchen Reynolds and Brown Bird Design",
+            "type": "Article",
+            "title": "The Power of the Squat",
+            "abstract": "It’s the one exercise most of us should be doing. But we need to do it right.",
+            "des_facet": [
+                "Exercise",
+                "Muscles",
+                "Knees",
+                "Content Type: Service"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jill Brady/Portland Portland Press Herald via Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/23/well/23well-squats/23well-squats-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/23/well/23well-squats/23well-squats-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/23/well/23well-squats/23well-squats-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/218c644c-31f1-5f81-b08e-192ee5c3c0f1",
+            "url": "https://www.nytimes.com/2022/04/19/arts/dance/nonbinary-ballet-dancers-swan-lake.html",
+            "id": 100000008298728,
+            "asset_id": 100000008298728,
+            "source": "New York Times",
+            "published_date": "2022-04-19",
+            "updated": "2022-04-19 23:35:34",
+            "section": "Arts",
+            "subsection": "Dance",
+            "nytdsection": "arts",
+            "adx_keywords": "",
+            "column": null,
+            "byline": "By Margaret Fuhrer",
+            "type": "Article",
+            "title": "A Nonbinary Swan, on Pointe",
+            "abstract": "Ashton Edwards, an apprentice at Pacific Northwest Ballet, is part of a rising generation of gender nonconforming dancers questioning ballet’s rigid gender roles.",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ashton Edwards, 19, said as a child they “wanted to be one of those beautiful, ethereal people on pointe.”",
+                    "copyright": "Meron Tekie Menghistab for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/24/arts/24ashton-edwards-1/24ashton-edwards-1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/24/arts/24ashton-edwards-1/24ashton-edwards-1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/24/arts/24ashton-edwards-1/24ashton-edwards-1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/9e9196b8-8171-5f3a-b7b6-a837235c8c86",
+            "url": "https://www.nytimes.com/2022/04/18/style/kate-quinn-baby-clothes.html",
+            "id": 100000008269916,
+            "asset_id": 100000008269916,
+            "source": "New York Times",
+            "published_date": "2022-04-18",
+            "updated": "2022-04-19 10:27:38",
+            "section": "Style",
+            "subsection": "",
+            "nytdsection": "style",
+            "adx_keywords": "Fashion and Apparel;Shopping and Retail;Babies and Infants;Mobile Commerce and Payments;Kate Quinn (Fashion Label);Quinn, Kate (Designer)",
+            "column": null,
+            "byline": "By Steven Kurutz",
+            "type": "Article",
+            "title": "The Supreme of Baby Clothes",
+            "abstract": "Ruffled onesies. Tiny cardigans. An online shopping mania has emerged for the brand Kate Quinn.",
+            "des_facet": [
+                "Fashion and Apparel",
+                "Shopping and Retail",
+                "Babies and Infants",
+                "Mobile Commerce and Payments"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Kate Quinn (Fashion Label)",
+                "Quinn, Kate (Designer)"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The two children of Rachel Red-Horse, a teacher in Hawaii, spend a moment on a Kate Quinn quilt while wearing Kate Quinn clothes.",
+                    "copyright": "Michelle Mishina Kunz for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/18/fashion/18KATEQUINN1/merlin_205069335_abc00a77-c3c0-4428-9e3b-e135928f6eda-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/18/fashion/18KATEQUINN1/merlin_205069335_abc00a77-c3c0-4428-9e3b-e135928f6eda-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/18/fashion/18KATEQUINN1/merlin_205069335_abc00a77-c3c0-4428-9e3b-e135928f6eda-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/017856da-fb48-50b1-9caf-548c3489441d",
+            "url": "https://www.nytimes.com/2022/04/11/well/resistance-band-workouts.html",
+            "id": 100000008276126,
+            "asset_id": 100000008276126,
+            "source": "New York Times",
+            "published_date": "2022-04-11",
+            "updated": "2022-04-19 00:19:56",
+            "section": "Well",
+            "subsection": "",
+            "nytdsection": "well",
+            "adx_keywords": "Exercise;Content Type: Service;Muscles;Sports Injuries;Weight Lifting",
+            "column": null,
+            "byline": "By Jenny Marder",
+            "type": "Article",
+            "title": "A Full-Body Strength Training Workout at Home",
+            "abstract": "If you’re willing to be creative, a set of elastic bands can be as effective as a gym full of weights.",
+            "des_facet": [
+                "Exercise",
+                "Content Type: Service",
+                "Muscles",
+                "Sports Injuries",
+                "Weight Lifting"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In addition to resistance training, exercise bands can take the edge off of body weight exercises, like pull-ups. But trainers like Vanessa Liu warn against becoming too dependent on them.",
+                    "copyright": "Cayce Clifford for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/19/well/12exercise-bands5/12exercise-bands5-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/19/well/12exercise-bands5/12exercise-bands5-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/19/well/12exercise-bands5/12exercise-bands5-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/4a0ebb19-b64f-5ed8-978b-6f02cad2c70b",
+            "url": "https://www.nytimes.com/2022/04/18/us/politics/marjorie-taylor-greene-jan-6.html",
+            "id": 100000008298268,
+            "asset_id": 100000008298268,
+            "source": "New York Times",
+            "published_date": "2022-04-18",
+            "updated": "2022-04-18 22:44:29",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Storming of the US Capitol (Jan, 2021);Project: Democracy;Presidential Election of 2020;Decisions and Verdicts;Elections;United States Politics and Government;Constitution (US);Demonstrations, Protests and Riots;Civil War (US) (1861-65);Rumors and Misinformation;Greene, Marjorie Taylor (1974- );Cawthorn, Madison;House of Representatives;Republican Party;Georgia",
+            "column": null,
+            "byline": "By Neil Vigdor",
+            "type": "Article",
+            "title": "Effort to Remove Marjorie Taylor Greene From Ballot Can Proceed, Judge Says",
+            "abstract": "The case that Ms. Greene unsuccessfully sought to have dismissed mirrors efforts against other Republicans centered on the Jan. 6, 2021, attack on the Capitol.",
+            "des_facet": [
+                "Storming of the US Capitol (Jan, 2021)",
+                "Project: Democracy",
+                "Presidential Election of 2020",
+                "Decisions and Verdicts",
+                "Elections",
+                "United States Politics and Government",
+                "Constitution (US)",
+                "Demonstrations, Protests and Riots",
+                "Civil War (US) (1861-65)",
+                "Rumors and Misinformation"
+            ],
+            "org_facet": [
+                "House of Representatives",
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Greene, Marjorie Taylor (1974- )",
+                "Cawthorn, Madison"
+            ],
+            "geo_facet": [
+                "Georgia"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Representative Marjorie Taylor Greene at the Save America rally last month in Michigan.",
+                    "copyright": "Audra Melton for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/20/us/politics/00pol-mjt-greene/00pol-mjt-greene-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/20/us/politics/00pol-mjt-greene/00pol-mjt-greene-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/20/us/politics/00pol-mjt-greene/00pol-mjt-greene-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/6fe50242-07d2-5e55-87c6-e4cf452d5c8f",
+            "url": "https://www.nytimes.com/2022/04/18/opinion/elizabeth-warren-democrats-biden-midterms.html",
+            "id": 100000008300361,
+            "asset_id": 100000008300361,
+            "source": "New York Times",
+            "published_date": "2022-04-18",
+            "updated": "2022-04-18 23:08:09",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Midterm Elections (2022);United States Economy;Corruption (Institutional);Biden, Joseph R Jr;Democratic Party;House of Representatives;Senate",
+            "column": null,
+            "byline": "By Elizabeth Warren",
+            "type": "Article",
+            "title": "Elizabeth Warren: Democrats Can Avoid Disaster in November",
+            "abstract": "More must be done to enact President Biden’s agenda before the midterm elections.",
+            "des_facet": [
+                "Midterm Elections (2022)",
+                "United States Economy",
+                "Corruption (Institutional)"
+            ],
+            "org_facet": [
+                "Democratic Party",
+                "House of Representatives",
+                "Senate"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Lauren Peters-Collaer. Photographs via Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/19/opinion/18WarrenR/18WarrenR-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/19/opinion/18WarrenR/18WarrenR-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/19/opinion/18WarrenR/18WarrenR-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/c2502be6-6ab5-57f5-8231-f84a27ea03bc",
+            "url": "https://www.nytimes.com/2022/04/18/us/politics/federal-mask-mandate-airplanes.html",
+            "id": 100000008308775,
+            "asset_id": 100000008308775,
+            "source": "New York Times",
+            "published_date": "2022-04-18",
+            "updated": "2022-04-19 11:07:21",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Coronavirus (2019-nCoV);Masks;Transit Systems;Airlines and Airplanes;Railroads;Coronavirus Omicron Variant;Decisions and Verdicts;Mizelle, Kathryn Kimball;Biden, Joseph R Jr;Centers for Disease Control and Prevention;Transportation Security Administration;Health Freedom Defense Fund;Amtrak;Metropolitan Transportation Authority;United Airlines;Health and Human Services Department;American Airlines;Southwest Airlines Company;United States",
+            "column": null,
+            "byline": "By Charlie Savage and Heather Murphy",
+            "type": "Article",
+            "title": "Federal Judge Strikes Down Mask Mandate for Planes and Public Transit",
+            "abstract": "The nation’s largest airlines dropped the requirement within hours of the ruling, but New York’s M.T.A. said its passengers must still wear a mask for now.",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Masks",
+                "Transit Systems",
+                "Airlines and Airplanes",
+                "Railroads",
+                "Coronavirus Omicron Variant",
+                "Decisions and Verdicts"
+            ],
+            "org_facet": [
+                "Centers for Disease Control and Prevention",
+                "Transportation Security Administration",
+                "Health Freedom Defense Fund",
+                "Amtrak",
+                "Metropolitan Transportation Authority",
+                "United Airlines",
+                "Health and Human Services Department",
+                "American Airlines",
+                "Southwest Airlines Company"
+            ],
+            "per_facet": [
+                "Mizelle, Kathryn Kimball",
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [
+                "United States"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Individual airlines and local transit agencies can make their own decisions about rules on wearing masks, but the nation’s largest airlines dropped the requirement within hours of the ruling.",
+                    "copyright": "Erin Schaff/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/18/multimedia/18virus-briefing-masks-ruling-01/18virus-briefing-masks-ruling-01-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/18/multimedia/18virus-briefing-masks-ruling-01/18virus-briefing-masks-ruling-01-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/18/multimedia/18virus-briefing-masks-ruling-01/18virus-briefing-masks-ruling-01-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/c56c7854-9848-54d7-a560-41952d36495b",
+            "url": "https://www.nytimes.com/2022/04/19/well/live/menopause-symptoms-age-women.html",
+            "id": 100000008238416,
+            "asset_id": 100000008238416,
+            "source": "New York Times",
+            "published_date": "2022-04-19",
+            "updated": "2022-04-19 15:23:42",
+            "section": "Well",
+            "subsection": "Live",
+            "nytdsection": "well",
+            "adx_keywords": "Menopause;Menstruation;Women and Girls;Hormones;Content Type: Service",
+            "column": null,
+            "byline": "By Alice Callahan",
+            "type": "Article",
+            "title": "How Long Does Menopause Last?",
+            "abstract": "And how will I know when it’s over?",
+            "des_facet": [
+                "Menopause",
+                "Menstruation",
+                "Women and Girls",
+                "Hormones",
+                "Content Type: Service"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Aileen Son for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/29/well/29askwell-menopause-promo/29askwell-menopause-promo-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/29/well/29askwell-menopause-promo/29askwell-menopause-promo-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/29/well/29askwell-menopause-promo/29askwell-menopause-promo-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/b828dab4-d249-54ca-b135-02821ed54c26",
+            "url": "https://www.nytimes.com/2022/04/18/opinion/school-book-bans-students.html",
+            "id": 100000008289815,
+            "asset_id": 100000008289815,
+            "source": "New York Times",
+            "published_date": "2022-04-18",
+            "updated": "2022-04-19 10:16:28",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Books and Literature;Censorship;Education (K-12)",
+            "column": null,
+            "byline": "By Sungjoo Yoon",
+            "type": "Article",
+            "title": "I’m a High School Junior. Let’s Talk About ‘Huckleberry Finn’ and ‘Mockingbird.’",
+            "abstract": "The problem isn’t that we disagree; it’s how we argue.",
+            "des_facet": [
+                "Books and Literature",
+                "Censorship",
+                "Education (K-12)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Allie Sullberg",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/20/opinion/20yoon-inyt/15yoon-thumbStandard.png",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/20/opinion/20yoon-inyt/15yoon-mediumThreeByTwo210.png",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/20/opinion/20yoon-inyt/15yoon-mediumThreeByTwo440.png",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/aa214095-81ee-5be3-abe4-c2ac43e18e52",
+            "url": "https://www.nytimes.com/2022/04/19/opinion/jan-6-ted-cruz-mike-lee.html",
+            "id": 100000008309552,
+            "asset_id": 100000008309552,
+            "source": "New York Times",
+            "published_date": "2022-04-19",
+            "updated": "2022-04-19 09:50:37",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Presidential Election of 2020;Constitution (US);Conservatism (US Politics);United States Politics and Government;Cruz, Ted;Lee, Michael S (1971- );Republican Party;Senate",
+            "column": null,
+            "byline": "By Jamelle Bouie",
+            "type": "Article",
+            "title": "Mike Lee and Ted Cruz Fought So That One Man Wouldn’t Have to Face the Pain of Defeat",
+            "abstract": "They profess to be constitutional conservatives. But that isn’t quite the whole story. ",
+            "des_facet": [
+                "Presidential Election of 2020",
+                "Constitution (US)",
+                "Conservatism (US Politics)",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Republican Party",
+                "Senate"
+            ],
+            "per_facet": [
+                "Cruz, Ted",
+                "Lee, Michael S (1971- )"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Saul Loeb/Agence France-Presse — Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/19/multimedia/19bouie_1/19bouie_1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/19/multimedia/19bouie_1/19bouie_1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/19/multimedia/19bouie_1/19bouie_1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/99abd412-412d-5a65-abfc-203664319f81",
+            "url": "https://www.nytimes.com/2022/04/18/world/canada/toronto-cannabis-stores.html",
+            "id": 100000008272511,
+            "asset_id": 100000008272511,
+            "source": "New York Times",
+            "published_date": "2022-04-18",
+            "updated": "2022-04-19 10:04:06",
+            "section": "World",
+            "subsection": "Canada",
+            "nytdsection": "world",
+            "adx_keywords": "Marijuana;Shopping and Retail;Quarantine (Life and Culture);Canada;Toronto (Ontario)",
+            "column": null,
+            "byline": "By Catherine Porter and Ian Willms",
+            "type": "Article",
+            "title": "A ‘Wild West’ of Marijuana Shops Grows in Toronto",
+            "abstract": "Permitted to operate during the pandemic, even during lockdowns, Toronto’s marijuana shops have flourished and changed the character of an iconic neighborhood.",
+            "des_facet": [
+                "Marijuana",
+                "Shopping and Retail",
+                "Quarantine (Life and Culture)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Canada",
+                "Toronto (Ontario)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Cannabis stores along Queen Street West, in Toronto, last month.",
+                    "copyright": "",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/12/world/00canada-pot-dispatch-grid/00canada-pot-dispatch-grid-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/12/world/00canada-pot-dispatch-grid/00canada-pot-dispatch-grid-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/12/world/00canada-pot-dispatch-grid/00canada-pot-dispatch-grid-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/23669fc1-88fe-5483-85ac-7edc86139508",
+            "url": "https://www.nytimes.com/2022/04/17/nyregion/covid-questions-families.html",
+            "id": 100000008298875,
+            "asset_id": 100000008298875,
+            "source": "New York Times",
+            "published_date": "2022-04-17",
+            "updated": "2022-04-19 11:30:03",
+            "section": "New York",
+            "subsection": "",
+            "nytdsection": "new york",
+            "adx_keywords": "Coronavirus Risks and Safety Concerns;Tests (Medical);Coronavirus (2019-nCoV);Masks;Parenting;Quarantines;Content Type: Service",
+            "column": null,
+            "byline": "By Sharon Otterman",
+            "type": "Article",
+            "title": "When Covid Enters the House, What Should We Do?",
+            "abstract": "When someone in the family tests positive for the coronavirus, there are some guidelines to follow.",
+            "des_facet": [
+                "Coronavirus Risks and Safety Concerns",
+                "Tests (Medical)",
+                "Coronavirus (2019-nCoV)",
+                "Masks",
+                "Parenting",
+                "Quarantines",
+                "Content Type: Service"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "When one family member tests positive for the coronavirus, a host of questions emerge.",
+                    "copyright": "Hiroko Masuike/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/15/nyregion/00virus_family_explainer1/00virus_family_explainer1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/15/nyregion/00virus_family_explainer1/merlin_205155183_785d4195-c73b-4485-9767-45a7d9df3e55-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/15/nyregion/00virus_family_explainer1/merlin_205155183_785d4195-c73b-4485-9767-45a7d9df3e55-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/2a3024d7-f047-537d-98bc-ac76cd59a097",
+            "url": "https://www.nytimes.com/2022/04/18/world/europe/ukraine-war-russian-orthodox-church.html",
+            "id": 100000008306806,
+            "asset_id": 100000008306806,
+            "source": "New York Times",
+            "published_date": "2022-04-18",
+            "updated": "2022-04-19 09:36:26",
+            "section": "World",
+            "subsection": "Europe",
+            "nytdsection": "world",
+            "adx_keywords": "Russian Invasion of Ukraine (2022);Russian Orthodox Church;Christians and Christianity;Clergy;Priests;International Relations;United States International Relations;Kirill I;Putin, Vladimir V;Bartholomew I;Eastern Orthodox Church;Orthodox Church in America;Russia;Ukraine;Europe;United States",
+            "column": null,
+            "byline": "By Neil MacFarquhar and Sophia Kishkovsky",
+            "type": "Article",
+            "title": "Ukraine War Divides Orthodox Faithful",
+            "abstract": "Around the world, national churches, parishes and even families are reassessing relations with Patriarch Kirill of Moscow, who has encouraged Russia’s aggression.",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)",
+                "Russian Orthodox Church",
+                "Christians and Christianity",
+                "Clergy",
+                "Priests",
+                "International Relations",
+                "United States International Relations"
+            ],
+            "org_facet": [
+                "Eastern Orthodox Church",
+                "Orthodox Church in America"
+            ],
+            "per_facet": [
+                "Kirill I",
+                "Putin, Vladimir V",
+                "Bartholomew I"
+            ],
+            "geo_facet": [
+                "Russia",
+                "Ukraine",
+                "Europe",
+                "United States"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A worshiper lighting a candle on Sunday at the Church of the Elevation of the Cross in Udine, Italy. The church has severed all ties with the Moscow Patriarchate over its support for the war in Ukraine.",
+                    "copyright": "Sergey Ponomarev for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/18/world/00russia-church-new-top/00russia-church-new-top-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/18/world/00russia-church-new-top/merlin_205601262_a4465635-30c4-44c7-8279-29076eea4d87-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/18/world/00russia-church-new-top/merlin_205601262_a4465635-30c4-44c7-8279-29076eea4d87-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/c55256b6-47fc-5bd5-8762-17a1c10a38e6",
+            "url": "https://www.nytimes.com/2022/04/15/magazine/ai-language.html",
+            "id": 100000008294353,
+            "asset_id": 100000008294353,
+            "source": "New York Times",
+            "published_date": "2022-04-15",
+            "updated": "2022-04-18 11:37:07",
+            "section": "Magazine",
+            "subsection": "",
+            "nytdsection": "magazine",
+            "adx_keywords": "Artificial Intelligence;Language and Languages;Data-Mining and Database Marketing;Writing and Writers;Computers and the Internet;Software;OpenAI Labs;Alphabet Inc;DeepMind Technologies Ltd;Meta Platforms Inc",
+            "column": null,
+            "byline": "By Steven Johnson and Nikita Iziev",
+            "type": "Article",
+            "title": "A.I. Is Mastering Language. Should We Trust What It Says?",
+            "abstract": "OpenAI’s GPT-3 and other neural nets can now write original prose with mind-boggling fluency — a development that could have profound implications for the future.",
+            "des_facet": [
+                "Artificial Intelligence",
+                "Language and Languages",
+                "Data-Mining and Database Marketing",
+                "Writing and Writers",
+                "Computers and the Internet",
+                "Software"
+            ],
+            "org_facet": [
+                "OpenAI Labs",
+                "Alphabet Inc",
+                "DeepMind Technologies Ltd",
+                "Meta Platforms Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/8984a2fd-0fce-5f42-8cb6-4e81ca9b20d5",
+            "url": "https://www.nytimes.com/2022/04/16/opinion/old-enough-kids-parents.html",
+            "id": 100000008306396,
+            "asset_id": 100000008306396,
+            "source": "New York Times",
+            "published_date": "2022-04-16",
+            "updated": "2022-04-18 15:33:38",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Reality Television;Parenting;Children and Childhood;internal-sub-only-nl;Netflix Inc;Japan;United States",
+            "column": null,
+            "byline": "By Jessica Grose",
+            "type": "Article",
+            "title": "On Japan’s Adorable ‘Old Enough!’ Show and the State of American Childhoods",
+            "abstract": "Let’s take a few baby steps toward teaching our kids independence.",
+            "des_facet": [
+                "Reality Television",
+                "Parenting",
+                "Children and Childhood",
+                "internal-sub-only-nl"
+            ],
+            "org_facet": [
+                "Netflix Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Japan",
+                "United States"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Eleanor Davis ",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/20/opinion/20Grose-inyt/13Grose-image-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/20/opinion/20Grose-inyt/13Grose-image-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/04/20/opinion/20Grose-inyt/13Grose-image-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        }
+    ]
+}
